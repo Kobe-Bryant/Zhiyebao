@@ -26,6 +26,7 @@ DDPageControlType ;
 	NSInteger currentPage ;
 }
 
+
 // Replicate UIPageControl features
 @property(nonatomic) NSInteger numberOfPages ;
 @property(nonatomic) NSInteger currentPage ;
